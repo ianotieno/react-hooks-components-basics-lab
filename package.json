@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "package.json": "^2.0.1",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
     "react-scripts": "^5.0.1"
@@ -37,5 +38,9 @@
     "@testing-library/react": "^11.1.0",
     "@testing-library/user-event": "^12.1.10",
     "mocha": "^8.2.1"
-  }
+  },
+  "description": "- Write basic React components\r - Return one React component from another component",
+  "main": "babel.config.js",
+  "author": "",
+  "license": "ISC"
 }
